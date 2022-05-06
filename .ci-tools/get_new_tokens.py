@@ -1,7 +1,7 @@
 #!/bin/python3
 import requests
 
-def get_new_tokens(ike_url, ike_key, ike_secret, ike_refresh):
+def get_new_tokens(ike_url, ike_key, ike_secret, ike_refresh) -> dict:
 
     params = {
         "grant_type": "refresh_token",
