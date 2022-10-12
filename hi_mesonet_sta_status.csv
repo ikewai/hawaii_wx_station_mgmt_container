@@ -1,4 +1,4 @@
-"staID","staName","SKN","status","LAT","LON"
+"sta_ID","staName","SKN","status","LAT","LON"
 "0286","0286_Palamanui",69.25,TRUE,19.73756,-155.99582
 "0288","0288_PuuWaawaa",70.7,TRUE,19.72544,-155.87389
 "0281","0281_IPIF",87.9,TRUE,19.69748,-155.0954
